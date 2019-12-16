@@ -4,7 +4,7 @@ background-image: linear-gradient(white,gray);
 
 .header {
 background-color: #144569;
- text-color: white;
+ color: white;
 }
 
 .footer {
@@ -16,5 +16,5 @@ background-color: #144569;
 }
 
 .header .links {
- text-align: right; 
+ text-align: right;
 }
