@@ -15,7 +15,10 @@ background-color: #144569;
    width:100%;
 }
 
-.a {
- text-align: right;
+a {
  text-color: white;
+}
+
+.header .links {
+ text-align: right;
 }
